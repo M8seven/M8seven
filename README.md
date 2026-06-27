@@ -2,7 +2,7 @@
 
 Security researcher — privilege escalation, cloud-agent security, and source-level vulnerability research. I find real, exploitable, novel bugs and report them responsibly. I also build AI products and ship full-stack software.
 
-**Portfolio:** https://m8seven.github.io/vp-portfolio/
+**Portfolio:** https://m8seven.github.io/vm-portfolio/
 
 ### Security research
 
